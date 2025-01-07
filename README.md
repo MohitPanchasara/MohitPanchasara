@@ -6,33 +6,28 @@
 
 ###
 
-<img align="left" height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tiMnlkdnVjeXE1NWJoeHN3NnRpaGpyZmI4eGk5enhkcjRvb3BwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N8wR1WZobKXaE/giphy-downsized-large.gif"  />
-
-###
+<table style="width: 100%; height: 100vh; border-collapse: collapse; border: none;">
+  <tr>
+    <!-- Left Column for the GIF -->
+    <td style="width: 250px; text-align: center; vertical-align: middle; background-color: #f4f4f4; border: none;">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJnbTZuZ3owYjYza2M3Y3hxeHVzZXhxd2RyM3FjZ3NqNzBvdGlmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N8wR1WZobKXaE/giphy-downsized.gif" alt="AI GIF" style="max-width: 140%; height: auto;">
+</td>
+<!-- Right Column for the Text -->
+<td style="background-color: #ffffff; padding: 20px; text-align: left; vertical-align: middle; border: none;">
 
 <h3 align="left">🔭 What I’m Up To</h3>
-
-###
-
 <p align="left">➼ Machine Learning 🤖<br>➼ Generative AI magic ✨<br>➼ Automating the boring stuff! 🔧</p>
-
-###
-
 <p align="left">Dreaming up and building AI-powered initiatives that make life simpler and smarter.<br>Exploring the thrilling algorithms of AI that can answer the unanswered questions of modern tech industries!<br>🌱 Always Learning</p>
-
-###
-
 <h3 align="left">💡 Stuff I’m Passionate About</h3>
-
-###
-
 <p align="left">I’m constantly soaking up new thoughts about AI architectures, optimization tricks, and present-day tech tendencies!</p>
+      
+</td>
+</tr>
+</table>
 
 ###
 
 <h3 align="left">📫 Let’s Connect!</h3>
-
-###
 
 <p align="left">I’d like to collaborate, chat approximately AI, or simply geek out over cool tech!</p>
 
