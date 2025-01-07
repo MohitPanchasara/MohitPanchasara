@@ -2,63 +2,50 @@
 
 ###
 
-<h4 align="left">Welcome to my GitHub! I’m a highly passionate AI enthusiast, focusing on new technologies to create tremendous, impactful projects. 🚀 Right now, I’m diving deep into the ocean of Artificial Intelligence, crafting cool solutions, and having a blast with tons of new research work going on in this field!</h4>
+<h4 align="left">Welcome to my GitHub! I’m a highly passionate AI enthusiast, focusing on new technologies to create tremendous, impactful projects. 🚀 </h4>
 
 ###
 
-<table style="width: 100%; height: 100vh; border-collapse: collapse; border: none;">
+<table style="width: 100%; height: auto; border-collapse: collapse; border: none;">
   <tr>
     <!-- Left Column for the GIF -->
-    <td style="width: 250px; text-align: center; vertical-align: middle; background-color: #f4f4f4; border: none;">
+    <td style="width: 200px; text-align: center; vertical-align: middle; background-color: #f4f4f4; border: none;">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJnbTZuZ3owYjYza2M3Y3hxeHVzZXhxd2RyM3FjZ3NqNzBvdGlmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N8wR1WZobKXaE/giphy-downsized.gif" alt="AI GIF" style="max-width: 140%; height: auto;">
 </td>
 <!-- Right Column for the Text -->
-<td style="background-color: #ffffff; padding: 20px; text-align: left; vertical-align: middle; border: none;">
-
+<td style="background-color: #ffffff; padding: 10px; text-align: left; vertical-align: middle; border: none;">
 <h3 align="left">🔭 What I’m Up To</h3>
 <p align="left">➼ Machine Learning 🤖<br>➼ Generative AI magic ✨<br>➼ Automating the boring stuff! 🔧</p>
-<p align="left">Dreaming up and building AI-powered initiatives that make life simpler and smarter.<br>Exploring the thrilling algorithms of AI that can answer the unanswered questions of modern tech industries!<br>🌱 Always Learning</p>
-<h3 align="left">💡 Stuff I’m Passionate About</h3>
-<p align="left">I’m constantly soaking up new thoughts about AI architectures, optimization tricks, and present-day tech tendencies!</p>
+<p align="left">Right now, I’m diving deep into the ocean of Artificial Intelligence, crafting cool solutions, and having a blast with tons of new research work going on in this field! </p>
       
 </td>
 </tr>
 </table>
 
-###
-
-<h3 align="left">📫 Let’s Connect!</h3>
-
-<p align="left">I’d like to collaborate, chat approximately AI, or simply geek out over cool tech!</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohit-panchasara/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mohitpanchasara@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="left">Stats</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitPanchasara&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MohitPanchasara&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohitPanchasara&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitPanchasara&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+    <img src="https://github-profile-trophy.vercel.app?username=MohitPanchasara&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitPanchasara&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="193.5" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohitPanchasara&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="193.5" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitPanchasara&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="360" width="100%" alt="activity-graph graph"  />
 </div>
+
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MohitPanchasara/count.svg?"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MohitPanchasara&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
+  
+###
 <h2 align="left">Tools & Tech Stack</h2>
 
 ###
@@ -139,8 +126,24 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MohitPanchasara/count.svg?"  />
+<h3 align="left">📫 Let’s Connect!</h3>
+
+<p align="left">I’d like to collaborate, chat about AI, or simply geek out over cool tech! Exploring the thrilling algorithms of AI that can answer the unanswered questions of modern tech industries!<br></p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohit-panchasara/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:mohitpanchasara@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<h4 align="left">🌱 Always Learning</h4>
+
 
 ###
