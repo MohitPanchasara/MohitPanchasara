@@ -41,11 +41,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohitPanchasara&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
-</div>
-  
-###
 <h2 align="left">Tools & Tech Stack</h2>
 
 ###
